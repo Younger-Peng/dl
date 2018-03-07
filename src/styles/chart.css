@@ -1,0 +1,7 @@
+.column {
+  width: 30px;
+  height: 200px;
+  background: linear-gradient(red, blue 80%, yellow 80%, orange);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
